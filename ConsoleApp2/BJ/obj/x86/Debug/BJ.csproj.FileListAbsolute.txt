@@ -1,0 +1,13 @@
+D:\Work\DCS\BJ\DCS\BJ\bin\Debug\BJ.exe.config
+D:\Work\DCS\BJ\DCS\BJ\bin\Debug\BJ.exe
+D:\Work\DCS\BJ\DCS\BJ\bin\Debug\BJ.pdb
+D:\Work\DCS\BJ\DCS\BJ\obj\x86\Debug\BJ.exe
+D:\Work\DCS\BJ\DCS\BJ\obj\x86\Debug\BJ.pdb
+D:\Work\DCS\BJ\DCS\BJ\obj\x86\Debug\BJ.csprojResolveAssemblyReference.cache
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\bin\Debug\BJ.exe.config
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\bin\Debug\BJ.exe
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\bin\Debug\BJ.pdb
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\obj\x86\Debug\BJ.csproj.AssemblyReference.cache
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\obj\x86\Debug\BJ.csproj.CoreCompileInputs.cache
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\obj\x86\Debug\BJ.exe
+F:\Program Files\Microsoft Visual Studio\repos\ConsoleApp2\BJ\obj\x86\Debug\BJ.pdb
